@@ -15,5 +15,5 @@ puts "the sum is #{multiplication}"
 
 
 #  true  &&  false   ||    true
-#       true
+#   final=    true
 (10 < 20 && 30 < 20) || !(10 == 11)
